@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm Nils. I'm passionate about Linux and Software Development. I like building things and tinkering with stuff.
-My favourite languages are Java, Go and Rust
+My favourite languages are Java, Go and Rust.
+
+Currently experimenting with NixOS.
 <!--
 **ngundlach/ngundlach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
